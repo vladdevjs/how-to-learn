@@ -17,5 +17,5 @@
 
 ## Запуск проекта
 
-- Склонировать проект на ваш компьютер с Github с помощью команды: `git clone git@github.com:vladdevjs/mesto.git`
+- Склонировать проект на ваш компьютер с Github с помощью команды: `git clone git@github.com:vladdevjs/how-to-learn.git`
 - Запустить файл `index.html` в корневной папке
